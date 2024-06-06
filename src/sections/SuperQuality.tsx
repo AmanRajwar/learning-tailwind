@@ -1,6 +1,6 @@
 import { arrowRight } from "../assets/icons";
 import { shoe8 } from "../assets/images";
-import Button from "../Components/Button";
+import {Button} from "../components";
 
 const SuperQuality = () => {
   return (
@@ -15,7 +15,7 @@ const SuperQuality = () => {
           you're a Member, you could get special access to the newest releases. If
           you see "Member product" pop up, you're in the right spot.</p>
         <div className="mt-11">
-          <Button label="View details" iconURL="" />
+          <Button label="View details" iconURL="" backgroundColor={undefined} textColor={undefined} borderColor={undefined} fullWidth={undefined} />
         </div>
       </div>
       <div className=" flex-1 flex justify-center items-center ">

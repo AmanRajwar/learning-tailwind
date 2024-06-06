@@ -1,5 +1,5 @@
 import { truckFast } from "../assets/icons"
-import ServiceCard from "../Components/ServiceCard"
+import ServiceCard from "../components/ServiceCard"
 import {services} from "../constants"
 
 

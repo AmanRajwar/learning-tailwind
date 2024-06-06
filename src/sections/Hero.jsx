@@ -1,6 +1,6 @@
 import { useState } from "react"
-import Button from "../Components/Button"
-import ShoeCard from "../Components/ShoeCard"
+import Button from "../components/button"
+import ShoeCard from "../components/ShoeCard"
 import { arrowRight } from '../assets/icons'
 import { bigShoe1 } from "../assets/images"
 import { shoes, statistics } from '../constants'
