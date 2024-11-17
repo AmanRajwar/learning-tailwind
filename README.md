@@ -8,8 +8,8 @@ Edidoc is a powerful and user-friendly web-based document editor designed for se
 ## 🚀 Features
 
 - **Rich Text Editing**: Format text with bold, italics, underline, lists, and more.
-- **Collaborative Editing**: Real-time collaboration (if applicable).
-- **Export Options**: Export documents as PDF, Word, or plain text.
+- **Collaborative Editing**: Real-time collaboration .
+- **Export Options**: Export documents as PDF, Word, or plain text. ( I am working on this right now )
 - **Customizable Toolbar**: Easy access to formatting tools.
 - **Cross-Platform**: Works on any device with a browser.
 
