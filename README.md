@@ -55,4 +55,19 @@ Make sure you have the following installed:
    git clone https://github.com/AmanRajwar/Edidoc-document-editor-.git
    cd Edidoc-document-editor-
 
+2. Install dependencies:
+
+   ```bash
+   npm Install
+   
+3. Start the development server:
+
+   ```bash
+    npm run dev
+   
+
+4. Open your browser and navigate to http://localhost:3000.
+
+
+
    
